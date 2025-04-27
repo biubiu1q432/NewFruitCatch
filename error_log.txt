@@ -1,0 +1,4 @@
+[{'color': 'vegetable_red', 'x_move': -20.018691588785046, 'y_move': 68.63695917527963, 'deep': 447.75, 'x_distance': -25.5, 'y_distance': 112.75, 'w': 107.0, 'h': 115.0, 'cx': 294.5, 'cy': 352.75, 'area': 8974.125}]
+[{'color': 'fruit_red', 'x_move': -5.946902654867256, 'y_move': -80.0, 'deep': 273.0, 'x_distance': -16.0, 'y_distance': -167.0, 'w': 226.0, 'h': 146.0, 'cx': 304.0, 'cy': 73.0, 'area': 25495.75}]
+[[{'color': None}]]
+[[{'color': None}]]
